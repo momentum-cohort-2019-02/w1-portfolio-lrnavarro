@@ -7,8 +7,19 @@
             background-color: #66404F;
             color: whitesmoke
             }
+        nav {
+            margin-bottom: 2rem
+        }
+        .myImg{
+                /* display: inline */
+                max-width: 100%;
+                border: solid black;
+            }
         img {
             border-radius: 40%;
+            /* border: solid black */
+           /* height: 80% */
+            transform: rotate(90deg);
             max-width: 30%;
-            padding: 2rem;
+            padding: 5rem;
             }
